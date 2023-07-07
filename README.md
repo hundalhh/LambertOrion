@@ -1,5 +1,6 @@
 # LambertOrion
 
+<pre>
 
 The uploaded files describe applications of the LambertW function to the original Master of Orion (1993) game. 
 
@@ -17,4 +18,4 @@ simBank1.py                - is a python program that illustrates the first bank
 simpleOrionSim2.py         - is a python program that shows how the the Lambert Growth Formula
                              gives a pretty good approximation of the growth rate of the economy
 			                       for an extremely simplified version of Master of Orion
-
+</pre>
