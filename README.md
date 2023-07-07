@@ -18,5 +18,5 @@ secondBanker.py            - is a python program that illustrates the second ban
 simBank1.py                - is a python program that illustrates the first banker's problem
 simpleOrionSim2.py         - is a python program that shows how the the Lambert Growth Formula
                              gives a pretty good approximation of the growth rate of the economy
-			                       for an extremely simplified version of Master of Orion
+			     for an extremely simplified version of Master of Orion
 </pre>
