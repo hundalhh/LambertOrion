@@ -9,6 +9,7 @@ main document.
 
 
 ApproximationLambertW.pdf  - describes a few ways to estimate the Lambert Growth Rate and the LambertW function
+	                     (Copied from StackExchange)
 BankerProblem7.pdf         - describes the first banker's problem and its solution.
 BankersSecondProblem5.pdf  - describes the second banker's problem and its solution.
 BoundRatio3.pdf            - gives some bounds for the expression  ( log(b) - log(a) )/(b-a) where a and b
